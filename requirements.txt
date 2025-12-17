@@ -1,0 +1,15 @@
+# Book Tracker Web GUI Requirements
+
+# Core
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.17.0
+
+# Database
+sqlite3  # Built-in with Python
+
+# Optional: For future sync features
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0
+# selenium>=4.15.0
+
